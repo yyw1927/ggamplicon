@@ -13,5 +13,6 @@ generate_heatmaps <- function(
   output_heatmaps_dir,
   downsample_label
 ) {
+  plot(1:10)
   message('here')
 }
